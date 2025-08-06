@@ -12,6 +12,7 @@ certificate/
 !.env.example
 
 # ECC validation and backup files (sensitive)
+src-backup*
 src_backup*
 *eccValidation*
 *eccpowvalidation*
